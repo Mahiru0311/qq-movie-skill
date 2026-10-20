@@ -1,0 +1,6 @@
+.bot_credentials.json
+.llm_credentials.json
+*credentials*
+node_modules/
+data/
+*.log
